@@ -1,4 +1,6 @@
 # 💫 About Me:
+👋 Hello, I'm Benjamin, a backend developer from Chile.
+
 🔭 I’m currently working on Trackventory<br><br>🌱 I’m currently learning backend and frontend technologies such as NestJS and React, system design, architecture topics and cloud computing in AWS.<br><br>💬 Ask me about React, NestJS, API REST.<br><br>📫 How to reach me benjaminfuneslillo@gmail.com
 
 
